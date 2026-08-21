@@ -1,0 +1,203 @@
+name: Aggiorna Rassegna Stampa
+
+on:
+  schedule:
+    - cron: "5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Scarica repository
+        uses: actions/checkout@v4
+
+      - name: Aggiorna feed
+        run: |
+          python3 - <<'PY'
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          from datetime import datetime, timezone
+          from email.utils import parsedate_to_datetime
+          from pathlib import Path
+          from html import escape
+
+          FEEDS = [
+              ("01", "Capital News", "https://www.capital.it/api/pub/v1/rss/google-assistant/833"),
+              ("02", "Giornale Orario RTL 102.5", "https://rss.rtl.it/podcast/giornale-orario/?mediaType=201"),
+              ("03", "Il Calcio del Giorno", "https://www.spreaker.com/show/6274160/episodes/feed"),
+              ("04", "Sky TG24", "https://feeds.megaphone.fm/SIS2869462939"),
+              ("05", "Mister Gadget Daily", "https://feeds.megaphone.fm/mistergadgetdaily"),
+              ("06", "Rai GR1", "https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/gr1.xml"),
+              ("07", "Gong!", "https://anchor.fm/s/95e7c8c8/podcast/rss"),
+              ("08", "100 secondi con Enrico Mentana", "https://www.spreaker.com/show/4989211/episodes/feed"),
+              ("09", "TMW News", "https://tmwradio.com/rss/?type=podcast&ida=20758"),
+          ]
+
+          def text_of(el, name):
+              x = el.find(name)
+              return (x.text or "").strip() if x is not None and x.text else ""
+
+          def parse_date(value):
+              if not value:
+                  return datetime.min.replace(tzinfo=timezone.utc)
+              try:
+                  return parsedate_to_datetime(value).astimezone(timezone.utc)
+              except:
+                  return datetime.min.replace(tzinfo=timezone.utc)
+
+          results = []
+
+          for num, source, url in FEEDS:
+              print(f"Controllo: {source}")
+
+              req = urllib.request.Request(
+                  url,
+                  headers={"User-Agent": "Mozilla/5.0 RassegnaStampa/1.0"}
+              )
+
+              with urllib.request.urlopen(req, timeout=30) as response:
+                  data = response.read()
+
+              root = ET.fromstring(data)
+
+              items = root.findall(".//item")
+
+              if not items:
+                  raise RuntimeError(f"Nessun episodio trovato per {source}")
+
+              best = None
+              best_date = datetime.min.replace(tzinfo=timezone.utc)
+
+              for item in items:
+                  pub = text_of(item, "pubDate")
+
+                  # Alcuni feed possono usare dc:date
+                  if not pub:
+                      for child in item:
+                          if child.tag.endswith("date"):
+                              pub = (child.text or "").strip()
+                              break
+
+                  dt = parse_date(pub)
+
+                  if dt > best_date:
+                      best = item
+                      best_date = dt
+
+              if best is None:
+                  best = items[0]
+
+              title = text_of(best, "title") or source
+              pub = text_of(best, "pubDate")
+
+              audio = None
+
+              for enc in best.findall("enclosure"):
+                  typ = enc.attrib.get("type", "").lower()
+                  candidate = enc.attrib.get("url", "")
+
+                  if candidate and (
+                      typ.startswith("audio/")
+                      or ".mp3" in candidate.lower()
+                      or ".m4a" in candidate.lower()
+                      or ".aac" in candidate.lower()
+                  ):
+                      audio = candidate
+                      break
+
+              if not audio:
+                  # fallback: cerca qualsiasi enclosure con URL
+                  for enc in best.findall("enclosure"):
+                      candidate = enc.attrib.get("url", "")
+                      if candidate:
+                          audio = candidate
+                          break
+
+              if not audio:
+                  raise RuntimeError(f"Nessun audio trovato per {source}")
+
+              guid = f"rassegna-stampa-{num}"
+
+              results.append({
+                  "num": num,
+                  "source": source,
+                  "title": title,
+                  "pub": pub,
+                  "audio": audio,
+                  "guid": guid,
+              })
+
+              print(f"  OK: {title}")
+              print(f"  AUDIO: {audio}")
+
+          # Generazione RSS
+          rss = ET.Element(
+              "rss",
+              {
+                  "version": "2.0",
+                  "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+                  "xmlns:googleplay": "http://www.google.com/schemas/play-podcasts/1.0",
+              }
+          )
+
+          channel = ET.SubElement(rss, "channel")
+
+          ET.SubElement(channel, "title").text = "Rassegna Stampa di SirBlueRiver"
+          ET.SubElement(channel, "description").text = (
+              "Rassegna stampa personalizzata: Capital, RTL 102.5, calcio, "
+              "Sky TG24, tecnologia, GR1, Gong!, Mentana e TMW."
+          )
+          ET.SubElement(channel, "language").text = "it-IT"
+          ET.SubElement(channel, "link").text = "https://sirblueriver.github.io/rassegna_stampa/"
+
+          # IMPORTANTE:
+          # Gli item vengono scritti nell'ordine personale stabilito.
+          for r in results:
+              item = ET.SubElement(channel, "item")
+
+              ET.SubElement(item, "title").text = (
+                  f"{r['num']} - {r['source']} — {r['title']}"
+              )
+
+              ET.SubElement(item, "guid", {"isPermaLink": "false"}).text = r["guid"]
+
+              if r["pub"]:
+                  ET.SubElement(item, "pubDate").text = r["pub"]
+
+              ET.SubElement(item, "description").text = (
+                  f"{r['source']}: {r['title']}"
+              )
+
+              ET.SubElement(
+                  item,
+                  "enclosure",
+                  {
+                      "url": r["audio"],
+                      "type": "audio/mpeg",
+                      "length": "0",
+                  }
+              )
+
+          tree = ET.ElementTree(rss)
+          ET.indent(tree, space="  ")
+
+          Path("rassegna.xml").write_bytes(
+              ET.tostring(rss, encoding="utf-8", xml_declaration=True)
+          )
+
+          print("")
+          print("Rassegna aggiornata correttamente.")
+          PY
+
+      - name: Pubblica il feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add rassegna.xml
+          git diff --cached --quiet || git commit -m "Aggiorna rassegna stampa"
+          git push
