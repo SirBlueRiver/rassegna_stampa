@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+  <channel>
+    <title>Rassegna Stampa di SirBlueRiver</title>
+    <description>Rassegna stampa personalizzata: Capital, RTL 102.5, calcio, Sky TG24, tecnologia, GR1, Gong!, Mentana e TMW.</description>
+    <language>it-IT</language>
+    <link>https://sirblueriver.github.io/rassegna_stampa/</link>
+    <item>
+      <title>01 - Capital News — Edizione delle ore 20:00</title>
+      <guid isPermaLink="false">rassegna-stampa-01</guid>
+      <pubDate>Fri, 21 Aug 2026 18:00:00 +0000</pubDate>
+      <description>Capital News: Edizione delle ore 20:00</description>
+      <enclosure url="https://media.capital.it/2026/08/21/episodes/grnews/grnews_20260821_200000.mp3" type="audio/mpeg" length="0" />
+    </item>
+    <item>
+      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 21</title>
+      <guid isPermaLink="false">rassegna-stampa-02</guid>
+      <pubDate>Fri, 21 Aug 2026 19:04:38 +0200</pubDate>
+      <description>Giornale Orario RTL 102.5: Edizione delle 21</description>
+      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/YMKMAksWjnjJ/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
+    </item>
+    <item>
+      <title>03 - Il Calcio del Giorno — FLASH ore 18.00: FIFA, dieci giornate a Paredes, Inter blinda Lautaro, Milan omaggia Baresi</title>
+      <guid isPermaLink="false">rassegna-stampa-03</guid>
+      <pubDate>Fri, 21 Aug 2026 15:35:02 +0000</pubDate>
+      <description>Il Calcio del Giorno: FLASH ore 18.00: FIFA, dieci giornate a Paredes, Inter blinda Lautaro, Milan omaggia Baresi</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/74462105/podcast.mp3" type="audio/mpeg" length="0" />
+    </item>
+    <item>
+      <title>04 - Sky TG24 — Sky TG24: le notizie delle 21.13</title>
+      <guid isPermaLink="false">rassegna-stampa-04</guid>
+      <pubDate>Fri, 21 Aug 2026 20:00:05 -0000</pubDate>
+      <description>Sky TG24: Sky TG24: le notizie delle 21.13</description>
+      <enclosure url="https://traffic.megaphone.fm/SIS6007899826.mp3" type="audio/mpeg" length="0" />
+    </item>
+    <item>
+      <title>05 - Mister Gadget Daily — 21 Ago: A breve nuovi smartphone Sony, Huawei e Xiaomi</title>
+      <guid isPermaLink="false">rassegna-stampa-05</guid>
+      <pubDate>Fri, 21 Aug 2026 01:00:00 -0000</pubDate>
+      <description>Mister Gadget Daily: 21 Ago: A breve nuovi smartphone Sony, Huawei e Xiaomi</description>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/NEXTDP9379409134.mp3" type="audio/mpeg" length="0" />
+    </item>
+    <item>
+      <title>06 - Rai GR1 — GR 1 ore 19:00 del 21/08/2026</title>
+      <guid isPermaLink="false">rassegna-stampa-06</guid>
+      <pubDate>Fri, 21 Aug 2026 17:37:00 GMT</pubDate>
+      <description>Rai GR1: GR 1 ore 19:00 del 21/08/2026</description>
+      <enclosure url="https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr1_audiocut/30169617_1800.mp3" type="audio/mpeg" length="0" />
+    </item>
+    <item>
+      <title>07 - Gong! — La SORPRESA MOZZAFIATO di BLACK MYTH: ZHONG KUI | Episodio 483</title>
+      <guid isPermaLink="false">rassegna-stampa-07</guid>
+      <pubDate>Thu, 20 Aug 2026 14:27:50 GMT</pubDate>
+      <description>Gong!: La SORPRESA MOZZAFIATO di BLACK MYTH: ZHONG KUI | Episodio 483</description>
+      <enclosure url="https://anchor.fm/s/95e7c8c8/podcast/play/124489361/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-20%2F430205407-44100-2-755d366536d85.mp3" type="audio/mpeg" length="0" />
+    </item>
+    <item>
+      <title>08 - 100 secondi con Enrico Mentana — Elezioni in Italia, Francia, Germania e USA: un autunno e una primavera decisivi per le democrazie occidentali</title>
+      <guid isPermaLink="false">rassegna-stampa-08</guid>
+      <pubDate>Fri, 07 Aug 2026 17:17:48 +0000</pubDate>
+      <description>100 secondi con Enrico Mentana: Elezioni in Italia, Francia, Germania e USA: un autunno e una primavera decisivi per le democrazie occidentali</description>
+      <enclosure url="https://api.spreaker.com/download/episode/73627460/file_radio_551215932_2026_08_07_19_01_mentana.mp3" type="audio/mpeg" length="0" />
+    </item>
+    <item>
+      <title>09 - TMW News — Ep. 1059 - Cinque talenti italiani Under 23 da tenere sott'occhio nella Serie B 2026/2027</title>
+      <guid isPermaLink="false">rassegna-stampa-09</guid>
+      <pubDate>Fri, 21 Aug 2026 08:25:45 +0200</pubDate>
+      <description>TMW News: Ep. 1059 - Cinque talenti italiani Under 23 da tenere sott'occhio nella Serie B 2026/2027</description>
+      <enclosure url="https://aod.tmwradio.com/0/150/98/987c0119f7b3c205326e18b34cf3dd5f-23526-1787293557.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
+    </item>
+  </channel>
+</rss>
