@@ -99,7 +99,7 @@ jobs:
 
               title = text_of(best, "title") or source
               pub = text_of(best, "pubDate")
-              guid_original = text_of(best, "guid")
+              original_guid = text_of(best, "guid")
 
               audio = None
 
@@ -127,7 +127,9 @@ jobs:
               if not audio:
                   raise RuntimeError(f"Nessun audio trovato per {source}")
 
-              unique_data = f"{num}|{guid_original}|{title}|{audio}"
+              # GUID unico e stabile per questo specifico episodio.
+              # Se la fonte pubblica un nuovo episodio, cambierà.
+              unique_data = f"{num}|{original_guid}|{title}|{audio}"
 
               unique_hash = hashlib.sha1(
                   unique_data.encode("utf-8")
@@ -154,9 +156,13 @@ jobs:
               })
 
               print(f"  OK: {title}")
-              print(f"  DATA UTC: {normalized_pub}")
+              print(f"  DATA: {normalized_pub}")
               print(f"  GUID: {guid}")
               print(f"  AUDIO: {audio}")
+
+          # ------------------------------------------------------------
+          # GENERAZIONE RSS
+          # ------------------------------------------------------------
 
           rss = ET.Element(
               "rss",
@@ -182,12 +188,26 @@ jobs:
               "Sky TG24, tecnologia, GR1, Gong!, Mentana e TMW."
           )
 
-          ET.SubElement(channel, "language").text = "it-IT"
+          ET.SubElement(
+              channel,
+              "language"
+          ).text = "it-IT"
 
           ET.SubElement(
               channel,
               "link"
           ).text = "https://sirblueriver.github.io/rassegna_stampa/"
+
+          # Gli episodi vengono SEMPRE inseriti nel nostro ordine:
+          # 01 Capital
+          # 02 RTL
+          # 03 Calcio
+          # 04 Sky
+          # 05 Mister Gadget
+          # 06 Rai
+          # 07 Gong
+          # 08 Mentana
+          # 09 TMW
 
           for r in results:
               item = ET.SubElement(channel, "item")
@@ -236,7 +256,9 @@ jobs:
           )
 
           print("")
+          print("========================================")
           print("Rassegna aggiornata correttamente.")
+          print("========================================")
           PY
 
       - name: Pubblica il feed
