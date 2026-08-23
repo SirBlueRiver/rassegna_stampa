@@ -2,7 +2,7 @@ name: Aggiorna Rassegna Stampa
 
 on:
   schedule:
-    - cron: "5 * * * *"
+    - cron: "5,35 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -24,7 +24,7 @@ jobs:
           from datetime import datetime, timezone
           from email.utils import parsedate_to_datetime
           from pathlib import Path
-          from html import escape
+          import hashlib
 
           FEEDS = [
               ("01", "Capital News", "https://www.capital.it/api/pub/v1/rss/google-assistant/833"),
@@ -45,9 +45,16 @@ jobs:
           def parse_date(value):
               if not value:
                   return datetime.min.replace(tzinfo=timezone.utc)
+
               try:
-                  return parsedate_to_datetime(value).astimezone(timezone.utc)
-              except:
+                  dt = parsedate_to_datetime(value)
+
+                  if dt.tzinfo is None:
+                      dt = dt.replace(tzinfo=timezone.utc)
+
+                  return dt.astimezone(timezone.utc)
+
+              except Exception:
                   return datetime.min.replace(tzinfo=timezone.utc)
 
           results = []
@@ -64,7 +71,6 @@ jobs:
                   data = response.read()
 
               root = ET.fromstring(data)
-
               items = root.findall(".//item")
 
               if not items:
@@ -76,7 +82,6 @@ jobs:
               for item in items:
                   pub = text_of(item, "pubDate")
 
-                  # Alcuni feed possono usare dc:date
                   if not pub:
                       for child in item:
                           if child.tag.endswith("date"):
@@ -94,6 +99,7 @@ jobs:
 
               title = text_of(best, "title") or source
               pub = text_of(best, "pubDate")
+              guid_original = text_of(best, "guid")
 
               audio = None
 
@@ -111,9 +117,9 @@ jobs:
                       break
 
               if not audio:
-                  # fallback: cerca qualsiasi enclosure con URL
                   for enc in best.findall("enclosure"):
                       candidate = enc.attrib.get("url", "")
+
                       if candidate:
                           audio = candidate
                           break
@@ -121,21 +127,37 @@ jobs:
               if not audio:
                   raise RuntimeError(f"Nessun audio trovato per {source}")
 
-              guid = f"rassegna-stampa-{num}"
+              unique_data = f"{num}|{guid_original}|{title}|{audio}"
+
+              unique_hash = hashlib.sha1(
+                  unique_data.encode("utf-8")
+              ).hexdigest()[:16]
+
+              guid = f"rassegna-stampa-{num}-{unique_hash}"
+
+              normalized_date = parse_date(pub)
+
+              if normalized_date == datetime.min.replace(tzinfo=timezone.utc):
+                  normalized_pub = ""
+              else:
+                  normalized_pub = normalized_date.strftime(
+                      "%a, %d %b %Y %H:%M:%S +0000"
+                  )
 
               results.append({
                   "num": num,
                   "source": source,
                   "title": title,
-                  "pub": pub,
+                  "pub": normalized_pub,
                   "audio": audio,
                   "guid": guid,
               })
 
               print(f"  OK: {title}")
+              print(f"  DATA UTC: {normalized_pub}")
+              print(f"  GUID: {guid}")
               print(f"  AUDIO: {audio}")
 
-          # Generazione RSS
           rss = ET.Element(
               "rss",
               {
@@ -147,31 +169,50 @@ jobs:
 
           channel = ET.SubElement(rss, "channel")
 
-          ET.SubElement(channel, "title").text = "Rassegna Stampa di SirBlueRiver"
-          ET.SubElement(channel, "description").text = (
+          ET.SubElement(
+              channel,
+              "title"
+          ).text = "Rassegna Stampa di SirBlueRiver"
+
+          ET.SubElement(
+              channel,
+              "description"
+          ).text = (
               "Rassegna stampa personalizzata: Capital, RTL 102.5, calcio, "
               "Sky TG24, tecnologia, GR1, Gong!, Mentana e TMW."
           )
-          ET.SubElement(channel, "language").text = "it-IT"
-          ET.SubElement(channel, "link").text = "https://sirblueriver.github.io/rassegna_stampa/"
 
-          # IMPORTANTE:
-          # Gli item vengono scritti nell'ordine personale stabilito.
+          ET.SubElement(channel, "language").text = "it-IT"
+
+          ET.SubElement(
+              channel,
+              "link"
+          ).text = "https://sirblueriver.github.io/rassegna_stampa/"
+
           for r in results:
               item = ET.SubElement(channel, "item")
 
-              ET.SubElement(item, "title").text = (
-                  f"{r['num']} - {r['source']} — {r['title']}"
-              )
+              ET.SubElement(
+                  item,
+                  "title"
+              ).text = f"{r['num']} - {r['source']} — {r['title']}"
 
-              ET.SubElement(item, "guid", {"isPermaLink": "false"}).text = r["guid"]
+              ET.SubElement(
+                  item,
+                  "guid",
+                  {"isPermaLink": "false"}
+              ).text = r["guid"]
 
               if r["pub"]:
-                  ET.SubElement(item, "pubDate").text = r["pub"]
+                  ET.SubElement(
+                      item,
+                      "pubDate"
+                  ).text = r["pub"]
 
-              ET.SubElement(item, "description").text = (
-                  f"{r['source']}: {r['title']}"
-              )
+              ET.SubElement(
+                  item,
+                  "description"
+              ).text = f"{r['source']}: {r['title']}"
 
               ET.SubElement(
                   item,
@@ -187,7 +228,11 @@ jobs:
           ET.indent(tree, space="  ")
 
           Path("rassegna.xml").write_bytes(
-              ET.tostring(rss, encoding="utf-8", xml_declaration=True)
+              ET.tostring(
+                  rss,
+                  encoding="utf-8",
+                  xml_declaration=True
+              )
           )
 
           print("")
@@ -198,6 +243,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add rassegna.xml
-          git diff --cached --quiet || git commit -m "Aggiorna rassegna stampa"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "Nessuna modifica al feed."
+          else
+            git commit -m "Aggiorna rassegna stampa"
+            git push
+          fi
