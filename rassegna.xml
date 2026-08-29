@@ -6,11 +6,11 @@
     <language>it-IT</language>
     <link>https://sirblueriver.github.io/rassegna_stampa/</link>
     <item>
-      <title>01 - Capital News — Edizione delle ore 20:00</title>
+      <title>01 - Capital News — Edizione delle ore 07:00</title>
       <guid isPermaLink="false">rassegna-stampa-01</guid>
-      <pubDate>Fri, 28 Aug 2026 18:00:00 +0000</pubDate>
-      <description>Capital News: Edizione delle ore 20:00</description>
-      <enclosure url="https://media.capital.it/2026/08/28/episodes/grnews/grnews_20260828_200000.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 29 Aug 2026 05:00:00 +0000</pubDate>
+      <description>Capital News: Edizione delle ore 07:00</description>
+      <enclosure url="https://media.capital.it/2026/08/29/episodes/grnews/grnews_20260829_070000.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>02 - Giornale Orario RTL 102.5 — Edizione delle 06</title>
@@ -62,11 +62,11 @@
       <enclosure url="https://api.spreaker.com/download/episode/73627460/file_radio_551215932_2026_08_07_19_01_mentana.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>09 - TMW News — Ep. 1066 - Stiamo sottovalutando la nuova Lazio che sta costruendo Lotito?</title>
+      <title>09 - TMW News — Ep. 1067 - Gli ultimi colpo del Como: Suwarso e Fabregas hanno creato una squadra da Scudetto</title>
       <guid isPermaLink="false">rassegna-stampa-09</guid>
-      <pubDate>Fri, 28 Aug 2026 08:00:00 +0000</pubDate>
-      <description>TMW News: Ep. 1066 - Stiamo sottovalutando la nuova Lazio che sta costruendo Lotito?</description>
-      <enclosure url="https://aod.tmwradio.com/0/150/bc/bc34e5370b67d1d4eef9d792f09b00f8-31075-1787834908.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 29 Aug 2026 05:00:00 +0000</pubDate>
+      <description>TMW News: Ep. 1067 - Gli ultimi colpo del Como: Suwarso e Fabregas hanno creato una squadra da Scudetto</description>
+      <enclosure url="https://aod.tmwradio.com/0/150/c5/c52f7062234f6377e46393791a376dfe-64342-1787922463.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
     </item>
   </channel>
 </rss>
