@@ -6,18 +6,18 @@
     <language>it-IT</language>
     <link>https://sirblueriver.github.io/rassegna_stampa/</link>
     <item>
-      <title>01 - Capital News — Edizione delle ore 20:00</title>
+      <title>01 - Capital News — Edizione delle ore 07:00</title>
       <guid isPermaLink="false">rassegna-stampa-01</guid>
-      <pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate>
-      <description>Capital News: Edizione delle ore 20:00</description>
-      <enclosure url="https://media.capital.it/2026/09/02/episodes/grnews/grnews_20260902_200000.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Thu, 03 Sep 2026 05:00:00 +0000</pubDate>
+      <description>Capital News: Edizione delle ore 07:00</description>
+      <enclosure url="https://media.capital.it/2026/09/03/episodes/grnews/grnews_20260903_070000.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 04</title>
+      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 07</title>
       <guid isPermaLink="false">rassegna-stampa-02</guid>
-      <pubDate>Thu, 03 Sep 2026 00:03:03 +0000</pubDate>
-      <description>Giornale Orario RTL 102.5: Edizione delle 04</description>
-      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/95oU7OD8X1fc/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Thu, 03 Sep 2026 03:05:35 +0000</pubDate>
+      <description>Giornale Orario RTL 102.5: Edizione delle 07</description>
+      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/5792yjwoanGA/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>03 - Il Calcio del Giorno — FLASH ore 18.00: Tagliafico-Juve, corsa contro il tempo, Gudmundsson-Lazio verso l’intesa, Milan al lavoro per blindare Rabiot</title>
@@ -62,11 +62,11 @@
       <enclosure url="https://api.spreaker.com/download/episode/74817058/file_radio_258654822_2026_09_02_19_05_mentana.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>09 - TMW News — Ep. 1071 - Vi spieghiamo il pagellone del calciomercato di TMW e i voti alle 20 di A</title>
+      <title>09 - TMW News — Ep. 1072 - Così Gian Piero Gasperini è diventato il nuovo Re di Roma</title>
       <guid isPermaLink="false">rassegna-stampa-09</guid>
-      <pubDate>Wed, 02 Sep 2026 10:08:35 +0000</pubDate>
-      <description>TMW News: Ep. 1071 - Vi spieghiamo il pagellone del calciomercato di TMW e i voti alle 20 di A</description>
-      <enclosure url="https://aod.tmwradio.com/0/150/8b/8bc240a6edddf9b1673df0a158f1dda5-92329-1788343803.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
+      <pubDate>Thu, 03 Sep 2026 05:00:00 +0000</pubDate>
+      <description>TMW News: Ep. 1072 - Così Gian Piero Gasperini è diventato il nuovo Re di Roma</description>
+      <enclosure url="https://aod.tmwradio.com/0/150/b9/b9f061b43c3dd3b8c14ecc50d84cf3e5-25472-1788364672.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
     </item>
   </channel>
 </rss>
