@@ -6,11 +6,11 @@
     <language>it-IT</language>
     <link>https://sirblueriver.github.io/rassegna_stampa/</link>
     <item>
-      <title>01 - Capital News — Edizione delle ore 06:00</title>
+      <title>01 - Capital News — Edizione delle ore 07:00</title>
       <guid isPermaLink="false">rassegna-stampa-01</guid>
-      <pubDate>Fri, 04 Sep 2026 04:00:00 +0000</pubDate>
-      <description>Capital News: Edizione delle ore 06:00</description>
-      <enclosure url="https://media.capital.it/2026/09/04/episodes/grnews/grnews_20260904_060000.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Fri, 04 Sep 2026 05:00:00 +0000</pubDate>
+      <description>Capital News: Edizione delle ore 07:00</description>
+      <enclosure url="https://media.capital.it/2026/09/04/episodes/grnews/grnews_20260904_070000.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>02 - Giornale Orario RTL 102.5 — Edizione delle 06</title>
@@ -62,11 +62,11 @@
       <enclosure url="https://api.spreaker.com/download/episode/74872068/file_radio_925150910_2026_09_03_19_08_mentana.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>09 - TMW News — Ep. 1072 - Così Gian Piero Gasperini è diventato il nuovo Re di Roma</title>
+      <title>09 - TMW News — Ep. 1073 - Monza rischiatutto con Juric: ma il mercato ha regalato nomi che possono esplodere</title>
       <guid isPermaLink="false">rassegna-stampa-09</guid>
-      <pubDate>Thu, 03 Sep 2026 05:00:00 +0000</pubDate>
-      <description>TMW News: Ep. 1072 - Così Gian Piero Gasperini è diventato il nuovo Re di Roma</description>
-      <enclosure url="https://aod.tmwradio.com/0/150/b9/b9f061b43c3dd3b8c14ecc50d84cf3e5-25472-1788364672.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
+      <pubDate>Fri, 04 Sep 2026 05:00:00 +0000</pubDate>
+      <description>TMW News: Ep. 1073 - Monza rischiatutto con Juric: ma il mercato ha regalato nomi che possono esplodere</description>
+      <enclosure url="https://aod.tmwradio.com/0/150/33/33f55b8b5771017426c6ffb9dcf8344c-25479-1788364699.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
     </item>
   </channel>
 </rss>
