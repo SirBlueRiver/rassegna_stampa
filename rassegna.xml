@@ -6,11 +6,11 @@
     <language>it-IT</language>
     <link>https://sirblueriver.github.io/rassegna_stampa/</link>
     <item>
-      <title>01 - Capital News — Edizione delle ore 12:00</title>
+      <title>01 - Capital News — Edizione delle ore 16:00</title>
       <guid isPermaLink="false">rassegna-stampa-01</guid>
-      <pubDate>Sat, 05 Sep 2026 10:00:00 +0000</pubDate>
-      <description>Capital News: Edizione delle ore 12:00</description>
-      <enclosure url="https://media.capital.it/2026/09/05/episodes/grnews/grnews_20260905_120000.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 05 Sep 2026 14:00:00 +0000</pubDate>
+      <description>Capital News: Edizione delle ore 16:00</description>
+      <enclosure url="https://media.capital.it/2026/09/05/episodes/grnews/grnews_20260905_160000.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>02 - Giornale Orario RTL 102.5 — Edizione delle 15</title>
@@ -41,11 +41,11 @@
       <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/NEXTDP3742496961.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>06 - Rai GR1 — GR 1 ore 12:00 del 05/09/2026</title>
+      <title>06 - Rai GR1 — GR 1 ore 13:00 del 05/09/2026</title>
       <guid isPermaLink="false">rassegna-stampa-06</guid>
-      <pubDate>Sat, 05 Sep 2026 10:27:00 +0000</pubDate>
-      <description>Rai GR1: GR 1 ore 12:00 del 05/09/2026</description>
-      <enclosure url="https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr1_audiocut/30268164_1800.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 05 Sep 2026 12:03:00 +0000</pubDate>
+      <description>Rai GR1: GR 1 ore 13:00 del 05/09/2026</description>
+      <enclosure url="https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr1_audiocut/30269497_1800.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>07 - Gong! — XBOX: UN FUTURO A CONSUMO? | Episodio 484</title>
