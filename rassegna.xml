@@ -6,18 +6,18 @@
     <language>it-IT</language>
     <link>https://sirblueriver.github.io/rassegna_stampa/</link>
     <item>
-      <title>01 - Capital News — Edizione delle ore 07:00</title>
+      <title>01 - Capital News — Edizione delle ore 08:00</title>
       <guid isPermaLink="false">rassegna-stampa-01</guid>
-      <pubDate>Sat, 12 Sep 2026 05:00:00 +0000</pubDate>
-      <description>Capital News: Edizione delle ore 07:00</description>
-      <enclosure url="https://media.capital.it/2026/09/12/episodes/grnews/grnews_20260912_070000.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 12 Sep 2026 06:00:00 +0000</pubDate>
+      <description>Capital News: Edizione delle ore 08:00</description>
+      <enclosure url="https://media.capital.it/2026/09/12/episodes/grnews/grnews_20260912_080000.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 07</title>
+      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 08</title>
       <guid isPermaLink="false">rassegna-stampa-02</guid>
-      <pubDate>Sat, 12 Sep 2026 03:05:59 +0000</pubDate>
-      <description>Giornale Orario RTL 102.5: Edizione delle 07</description>
-      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/f5hnU76x0ASH/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 12 Sep 2026 04:06:53 +0000</pubDate>
+      <description>Giornale Orario RTL 102.5: Edizione delle 08</description>
+      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/gaMRWFSrhefj/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>03 - Il Calcio del Giorno — FLASH ore 18.00: Sarr torna in gruppo, Amorim prepara la sfida alla Lazio, Cagliari da record</title>
@@ -41,11 +41,11 @@
       <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/NEXTDP4506094989.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>06 - Rai GR1 — GR 1 ore 19:00 del 11/09/2026</title>
+      <title>06 - Rai GR1 — GR 1 ore 07:00 del 12/09/2026</title>
       <guid isPermaLink="false">rassegna-stampa-06</guid>
-      <pubDate>Fri, 11 Sep 2026 17:38:00 +0000</pubDate>
-      <description>Rai GR1: GR 1 ore 19:00 del 11/09/2026</description>
-      <enclosure url="https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr1_audiocut/30318572_1800.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 12 Sep 2026 05:33:00 +0000</pubDate>
+      <description>Rai GR1: GR 1 ore 07:00 del 12/09/2026</description>
+      <enclosure url="https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr1_audiocut/30320539_1800.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>07 - Gong! — SONY CANCELLA PHYSINT, XBOX LO SALVA | Episodio 485</title>
@@ -62,11 +62,11 @@
       <enclosure url="https://api.spreaker.com/download/episode/75072398/file_radio_515636488_2026_09_11_19_06_mentana.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>09 - TMW News — Ep. 1082 - Tutto su Issa Doumbia, una delle novità della nuova Italia di Roberto Mancini</title>
+      <title>09 - TMW News — Ep. 1081 - Rinascere nella Lazio di Gattuso: il mercato ha già regalato una nuova vita a due top</title>
       <guid isPermaLink="false">rassegna-stampa-09</guid>
-      <pubDate>Fri, 11 Sep 2026 10:57:02 +0000</pubDate>
-      <description>TMW News: Ep. 1082 - Tutto su Issa Doumbia, una delle novità della nuova Italia di Roberto Mancini</description>
-      <enclosure url="https://aod.tmwradio.com/0/150/06/06c12da6cfc3cf932ea06cffaffe5dce-01247-1789124260.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 12 Sep 2026 06:12:26 +0000</pubDate>
+      <description>TMW News: Ep. 1081 - Rinascere nella Lazio di Gattuso: il mercato ha già regalato una nuova vita a due top</description>
+      <enclosure url="https://aod.tmwradio.com/0/150/85/85dc0ae9bd8b30f96addc8ff75d2ff6b-10981-1789107174.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
     </item>
   </channel>
 </rss>
