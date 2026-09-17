@@ -6,11 +6,11 @@
     <language>it-IT</language>
     <link>https://sirblueriver.github.io/rassegna_stampa/</link>
     <item>
-      <title>01 - Capital News — Edizione delle ore 09:00</title>
+      <title>01 - Capital News — Edizione delle ore 10:00</title>
       <guid isPermaLink="false">rassegna-stampa-01</guid>
-      <pubDate>Thu, 17 Sep 2026 07:00:00 +0000</pubDate>
-      <description>Capital News: Edizione delle ore 09:00</description>
-      <enclosure url="https://media.capital.it/2026/09/17/episodes/grnews/grnews_20260917_090000.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Thu, 17 Sep 2026 08:00:00 +0000</pubDate>
+      <description>Capital News: Edizione delle ore 10:00</description>
+      <enclosure url="https://media.capital.it/2026/09/17/episodes/grnews/grnews_20260917_100000.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>02 - Giornale Orario RTL 102.5 — Edizione delle 09</title>
@@ -41,11 +41,11 @@
       <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/NEXTDP1698544143.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>06 - Rai GR1 — GR 1 ore 19:00 del 16/09/2026</title>
+      <title>06 - Rai GR1 — GR 1 ore 09:00 del 17/09/2026</title>
       <guid isPermaLink="false">rassegna-stampa-06</guid>
-      <pubDate>Wed, 16 Sep 2026 17:37:00 +0000</pubDate>
-      <description>Rai GR1: GR 1 ore 19:00 del 16/09/2026</description>
-      <enclosure url="https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr1_audiocut/30355366_1800.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Thu, 17 Sep 2026 07:11:00 +0000</pubDate>
+      <description>Rai GR1: GR 1 ore 09:00 del 17/09/2026</description>
+      <enclosure url="https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr1_audiocut/30357699_1800.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>07 - Gong! — SONY CANCELLA PHYSINT, XBOX LO SALVA | Episodio 485</title>
