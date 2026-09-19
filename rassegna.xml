@@ -6,11 +6,11 @@
     <language>it-IT</language>
     <link>https://sirblueriver.github.io/rassegna_stampa/</link>
     <item>
-      <title>01 - Capital News — Edizione delle ore 20:00</title>
+      <title>01 - Capital News — Edizione delle ore 07:00</title>
       <guid isPermaLink="false">rassegna-stampa-01</guid>
-      <pubDate>Fri, 18 Sep 2026 18:00:00 +0000</pubDate>
-      <description>Capital News: Edizione delle ore 20:00</description>
-      <enclosure url="https://media.capital.it/2026/09/18/episodes/grnews/grnews_20260918_200000.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 19 Sep 2026 05:00:00 +0000</pubDate>
+      <description>Capital News: Edizione delle ore 07:00</description>
+      <enclosure url="https://media.capital.it/2026/09/19/episodes/grnews/grnews_20260919_070000.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>02 - Giornale Orario RTL 102.5 — Edizione delle 06</title>
@@ -62,11 +62,11 @@
       <enclosure url="https://api.spreaker.com/download/episode/75214158/file_radio_113630032_2026_09_18_19_09_mentana.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>09 - TMW News — Ep. 1086 - Come Dorgu e Hjulmand: il Lecce blinda la Corvinata che lo farà ricco</title>
+      <title>09 - TMW News — Ep. 1087 - Non è Kvaratskhelia ma sarà un top player. Kvernadze, la star del Frosinone</title>
       <guid isPermaLink="false">rassegna-stampa-09</guid>
-      <pubDate>Fri, 18 Sep 2026 07:50:00 +0000</pubDate>
-      <description>TMW News: Ep. 1086 - Come Dorgu e Hjulmand: il Lecce blinda la Corvinata che lo farà ricco</description>
-      <enclosure url="https://aod.tmwradio.com/0/150/7b/7be12ed4da78e063f693a11466c950dd-63385-1789718033.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 19 Sep 2026 05:00:00 +0000</pubDate>
+      <description>TMW News: Ep. 1087 - Non è Kvaratskhelia ma sarà un top player. Kvernadze, la star del Frosinone</description>
+      <enclosure url="https://aod.tmwradio.com/0/150/1e/1eafecadebb993da3fbb7090e8867a57-19221-1789743564.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
     </item>
   </channel>
 </rss>
