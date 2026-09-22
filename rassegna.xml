@@ -6,18 +6,18 @@
     <language>it-IT</language>
     <link>https://sirblueriver.github.io/rassegna_stampa/</link>
     <item>
-      <title>01 - Capital News — Edizione delle ore 20:00</title>
+      <title>01 - Capital News — Edizione delle ore 09:00</title>
       <guid isPermaLink="false">rassegna-stampa-01</guid>
-      <pubDate>Mon, 21 Sep 2026 18:00:00 +0000</pubDate>
-      <description>Capital News: Edizione delle ore 20:00</description>
-      <enclosure url="https://media.capital.it/2026/09/21/episodes/grnews/grnews_20260921_200000.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Tue, 22 Sep 2026 07:00:00 +0000</pubDate>
+      <description>Capital News: Edizione delle ore 09:00</description>
+      <enclosure url="https://media.capital.it/2026/09/22/episodes/grnews/grnews_20260922_090000.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 03</title>
+      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 09</title>
       <guid isPermaLink="false">rassegna-stampa-02</guid>
-      <pubDate>Mon, 21 Sep 2026 23:02:24 +0000</pubDate>
-      <description>Giornale Orario RTL 102.5: Edizione delle 03</description>
-      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/GfqyM9O4crhb/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Tue, 22 Sep 2026 05:05:07 +0000</pubDate>
+      <description>Giornale Orario RTL 102.5: Edizione delle 09</description>
+      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/AkRc8hiAnbqk/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>03 - Il Calcio del Giorno — FLASH ore 18.00: Kolo Muani operato alla mano, Serie A con appena cinque rigori, Felici intervento riuscito</title>
@@ -27,11 +27,11 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75282296/podcast_1.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>04 - Sky TG24 — Sky TG24: le notizie delle 23.12</title>
+      <title>04 - Sky TG24 — Sky TG24: le notizie delle 07.12</title>
       <guid isPermaLink="false">rassegna-stampa-04</guid>
-      <pubDate>Mon, 21 Sep 2026 23:00:04 +0000</pubDate>
-      <description>Sky TG24: Sky TG24: le notizie delle 23.12</description>
-      <enclosure url="https://traffic.megaphone.fm/SIS5649753759.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Tue, 22 Sep 2026 05:40:08 +0000</pubDate>
+      <description>Sky TG24: Sky TG24: le notizie delle 07.12</description>
+      <enclosure url="https://traffic.megaphone.fm/SIS9286422602.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>05 - Mister Gadget Daily — 22 set: Da oggi il bonus per le colonnine</title>
@@ -62,11 +62,11 @@
       <enclosure url="https://api.spreaker.com/download/episode/75283821/file_radio_226241800_2026_09_21_19_05_mentana.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>09 - TMW News — Ep. 1089 - Le idee degli americani e la solidità di Stirpe: perché il Frosinone sta sognando</title>
+      <title>09 - TMW News — Ep. 1090 - Allegri ha trovato solo metà della ricetta per far svoltare il Napoli</title>
       <guid isPermaLink="false">rassegna-stampa-09</guid>
-      <pubDate>Mon, 21 Sep 2026 08:06:52 +0000</pubDate>
-      <description>TMW News: Ep. 1089 - Le idee degli americani e la solidità di Stirpe: perché il Frosinone sta sognando</description>
-      <enclosure url="https://aod.tmwradio.com/0/150/6a/6a9f8f35c8809841f02cd9ffe1b13eec-50510-1789978111.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
+      <pubDate>Tue, 22 Sep 2026 05:00:00 +0000</pubDate>
+      <description>TMW News: Ep. 1090 - Allegri ha trovato solo metà della ricetta per far svoltare il Napoli</description>
+      <enclosure url="https://aod.tmwradio.com/0/150/65/65f0e3081dfd13f0ff493f7d87627878-98333-1789978140.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
     </item>
   </channel>
 </rss>
