@@ -6,32 +6,32 @@
     <language>it-IT</language>
     <link>https://sirblueriver.github.io/rassegna_stampa/</link>
     <item>
-      <title>01 - Capital News — Edizione delle ore 14:00</title>
+      <title>01 - Capital News — Edizione delle ore 19:00</title>
       <guid isPermaLink="false">rassegna-stampa-01</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
-      <description>Capital News: Edizione delle ore 14:00</description>
-      <enclosure url="https://media.capital.it/2026/09/23/episodes/grnews/grnews_20260923_140000.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Wed, 23 Sep 2026 17:00:00 +0000</pubDate>
+      <description>Capital News: Edizione delle ore 19:00</description>
+      <enclosure url="https://media.capital.it/2026/09/23/episodes/grnews/grnews_20260923_190000.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 14</title>
+      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 19</title>
       <guid isPermaLink="false">rassegna-stampa-02</guid>
-      <pubDate>Wed, 23 Sep 2026 10:03:54 +0000</pubDate>
-      <description>Giornale Orario RTL 102.5: Edizione delle 14</description>
-      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/zSUg4g51T24g/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Wed, 23 Sep 2026 15:08:31 +0000</pubDate>
+      <description>Giornale Orario RTL 102.5: Edizione delle 19</description>
+      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/3wC0NHgDl62I/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>03 - Il Calcio del Giorno — FLASH ore 12.00: Neto vicino alla Juventus, Alaba verso l'Udinese, caso Romano tra Italia e Svizzera</title>
+      <title>03 - Il Calcio del Giorno — FLASH ore 18.00: Grabara operato, Inter al lavoro per blindare Dimarco, Messi invita Dybala ma la Roma frena</title>
       <guid isPermaLink="false">rassegna-stampa-03</guid>
-      <pubDate>Wed, 23 Sep 2026 10:42:21 +0000</pubDate>
-      <description>Il Calcio del Giorno: FLASH ore 12.00: Neto vicino alla Juventus, Alaba verso l'Udinese, caso Romano tra Italia e Svizzera</description>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75314047/utf_8_q_f0_9f_93_bb_f0_9f_94_94il_notiziario_sportivo_del_utf_8_q_23_settembre_2026_h_12_mp3.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Wed, 23 Sep 2026 16:29:27 +0000</pubDate>
+      <description>Il Calcio del Giorno: FLASH ore 18.00: Grabara operato, Inter al lavoro per blindare Dimarco, Messi invita Dybala ma la Roma frena</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75318232/podcast.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>04 - Sky TG24 — Sky TG24: le notizie delle 13.13</title>
+      <title>04 - Sky TG24 — Sky TG24: le notizie delle 18.12</title>
       <guid isPermaLink="false">rassegna-stampa-04</guid>
-      <pubDate>Wed, 23 Sep 2026 11:32:08 +0000</pubDate>
-      <description>Sky TG24: Sky TG24: le notizie delle 13.13</description>
-      <enclosure url="https://traffic.megaphone.fm/SIS1153298865.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Wed, 23 Sep 2026 17:11:01 +0000</pubDate>
+      <description>Sky TG24: Sky TG24: le notizie delle 18.12</description>
+      <enclosure url="https://traffic.megaphone.fm/SIS1413962685.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>05 - Mister Gadget Daily — 23 Set: Interessante test di Vodafone ed Ericsson</title>
@@ -41,11 +41,11 @@
       <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/NEXTDP2957639501.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>06 - Rai GR1 — GR 1 ore 13:00 del 23/09/2026</title>
+      <title>06 - Rai GR1 — GR 1 ore 18:00 del 23/09/2026</title>
       <guid isPermaLink="false">rassegna-stampa-06</guid>
-      <pubDate>Wed, 23 Sep 2026 11:25:00 +0000</pubDate>
-      <description>Rai GR1: GR 1 ore 13:00 del 23/09/2026</description>
-      <enclosure url="https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr1_audiocut/30405730_1800.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Wed, 23 Sep 2026 16:20:00 +0000</pubDate>
+      <description>Rai GR1: GR 1 ore 18:00 del 23/09/2026</description>
+      <enclosure url="https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr1_audiocut/30408448_1800.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>07 - Gong! — PHYSINT, KOJIMA: ORA PARLO IO | Episodio 488</title>
@@ -55,11 +55,11 @@
       <enclosure url="https://anchor.fm/s/95e7c8c8/podcast/play/126183233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-23%2F432495528-44100-2-10324dd4f0b1d.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>08 - 100 secondi con Enrico Mentana — Guerra in Ucraina: il Cremlino blocca ogni prospettiva negoziale dopo l'incontro Trump-Zelensky</title>
+      <title>08 - 100 secondi con Enrico Mentana — All'ONU il disordine mondiale: tensioni Iran-USA e il ruolo marginale dell'ONU</title>
       <guid isPermaLink="false">rassegna-stampa-08</guid>
-      <pubDate>Wed, 23 Sep 2026 10:18:48 +0000</pubDate>
-      <description>100 secondi con Enrico Mentana: Guerra in Ucraina: il Cremlino blocca ogni prospettiva negoziale dopo l'incontro Trump-Zelensky</description>
-      <enclosure url="https://api.spreaker.com/download/episode/75313598/file_radio_683078586_2026_09_23_12_06_mentana.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Wed, 23 Sep 2026 17:18:02 +0000</pubDate>
+      <description>100 secondi con Enrico Mentana: All'ONU il disordine mondiale: tensioni Iran-USA e il ruolo marginale dell'ONU</description>
+      <enclosure url="https://api.spreaker.com/download/episode/75318763/file_radio_203908126_2026_09_23_19_06_mentana.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>09 - TMW News — Ep. 1090 - Allegri ha trovato solo metà della ricetta per far svoltare il Napoli</title>
