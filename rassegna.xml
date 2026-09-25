@@ -6,32 +6,32 @@
     <language>it-IT</language>
     <link>https://sirblueriver.github.io/rassegna_stampa/</link>
     <item>
-      <title>01 - Capital News — Edizione delle ore 12:00</title>
+      <title>01 - Capital News — Edizione delle ore 16:00</title>
       <guid isPermaLink="false">rassegna-stampa-01</guid>
-      <pubDate>Fri, 25 Sep 2026 10:00:00 +0000</pubDate>
-      <description>Capital News: Edizione delle ore 12:00</description>
-      <enclosure url="https://media.capital.it/2026/09/25/episodes/grnews/grnews_20260925_120000.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Fri, 25 Sep 2026 14:00:00 +0000</pubDate>
+      <description>Capital News: Edizione delle ore 16:00</description>
+      <enclosure url="https://media.capital.it/2026/09/25/episodes/grnews/grnews_20260925_160000.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 13</title>
+      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 17</title>
       <guid isPermaLink="false">rassegna-stampa-02</guid>
-      <pubDate>Fri, 25 Sep 2026 09:06:10 +0000</pubDate>
-      <description>Giornale Orario RTL 102.5: Edizione delle 13</description>
-      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/M3JDCejhndj0/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Fri, 25 Sep 2026 13:04:12 +0000</pubDate>
+      <description>Giornale Orario RTL 102.5: Edizione delle 17</description>
+      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/Q7dcHCdKihUj/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>03 - Il Calcio del Giorno — FLASH ore 12.00: Italia riparte da Romano, Juve blinda Conceicao, rinnovo Calhanoglu in bilico</title>
+      <title>03 - Il Calcio del Giorno — FLASH ore 18.00: Manchester City, rischio stangata, Ekhator vede il rientro, Frattesi racconta la scelta Lazio</title>
       <guid isPermaLink="false">rassegna-stampa-03</guid>
-      <pubDate>Fri, 25 Sep 2026 09:20:46 +0000</pubDate>
-      <description>Il Calcio del Giorno: FLASH ore 12.00: Italia riparte da Romano, Juve blinda Conceicao, rinnovo Calhanoglu in bilico</description>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75350588/utf_8_q_f0_9f_93_bb_f0_9f_94_94il_notiziario_sportivo_del_utf_8_q_25_settembre_2026_h_12_mp3.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Fri, 25 Sep 2026 15:52:11 +0000</pubDate>
+      <description>Il Calcio del Giorno: FLASH ore 18.00: Manchester City, rischio stangata, Ekhator vede il rientro, Frattesi racconta la scelta Lazio</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75358116/podcast.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>04 - Sky TG24 — Sky TG24: le notizie delle 11.13</title>
+      <title>04 - Sky TG24 — Sky TG24: le notizie delle 14.12</title>
       <guid isPermaLink="false">rassegna-stampa-04</guid>
-      <pubDate>Fri, 25 Sep 2026 10:10:11 +0000</pubDate>
-      <description>Sky TG24: Sky TG24: le notizie delle 11.13</description>
-      <enclosure url="https://traffic.megaphone.fm/SIS8687708064.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Fri, 25 Sep 2026 13:10:12 +0000</pubDate>
+      <description>Sky TG24: Sky TG24: le notizie delle 14.12</description>
+      <enclosure url="https://traffic.megaphone.fm/SIS3247539454.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>05 - Mister Gadget Daily — 25 set: I nuovi Meta Glasses impressionano per qualità</title>
@@ -41,11 +41,11 @@
       <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/NEXTDP3381076673.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>06 - Rai GR1 — GR 1 ore 09:00 del 25/09/2026</title>
+      <title>06 - Rai GR1 — GR 1 ore 15:00 del 25/09/2026</title>
       <guid isPermaLink="false">rassegna-stampa-06</guid>
-      <pubDate>Fri, 25 Sep 2026 07:08:00 +0000</pubDate>
-      <description>Rai GR1: GR 1 ore 09:00 del 25/09/2026</description>
-      <enclosure url="https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr1_audiocut/30420848_1800.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Fri, 25 Sep 2026 13:42:00 +0000</pubDate>
+      <description>Rai GR1: GR 1 ore 15:00 del 25/09/2026</description>
+      <enclosure url="https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr1_audiocut/30425398_1800.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>07 - Gong! — PHYSINT, KOJIMA: ORA PARLO IO | Episodio 488</title>
