@@ -6,18 +6,18 @@
     <language>it-IT</language>
     <link>https://sirblueriver.github.io/rassegna_stampa/</link>
     <item>
-      <title>01 - Capital News — Edizione delle ore 20:00</title>
+      <title>01 - Capital News — Edizione delle ore 09:00</title>
       <guid isPermaLink="false">rassegna-stampa-01</guid>
-      <pubDate>Fri, 09 Oct 2026 18:00:00 +0000</pubDate>
-      <description>Capital News: Edizione delle ore 20:00</description>
-      <enclosure url="https://media.capital.it/2026/10/09/episodes/grnews/grnews_20261009_200000.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 10 Oct 2026 07:00:00 +0000</pubDate>
+      <description>Capital News: Edizione delle ore 09:00</description>
+      <enclosure url="https://media.capital.it/2026/10/10/episodes/grnews/grnews_20261010_090000.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 02</title>
+      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 09</title>
       <guid isPermaLink="false">rassegna-stampa-02</guid>
-      <pubDate>Fri, 09 Oct 2026 22:03:07 +0000</pubDate>
-      <description>Giornale Orario RTL 102.5: Edizione delle 02</description>
-      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/CrlInj7cqK7W/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 10 Oct 2026 05:04:47 +0000</pubDate>
+      <description>Giornale Orario RTL 102.5: Edizione delle 09</description>
+      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/Am3nRODI1XMm/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>03 - Il Calcio del Giorno — FLASH ore 18.00: McTominay torna col Napoli, Spence convocato dall’Inter, Juventus lancia la seconda Forward Squad</title>
@@ -27,11 +27,11 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75668778/utf_8_q_f0_9f_93_bb_f0_9f_94_94il_notiziario_sportivo_d_utf_8_q_el_9_ottobre_2026_h_18_mp3.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>04 - Sky TG24 — Sky TG24: le notizie delle 22.13</title>
+      <title>04 - Sky TG24 — Sky TG24: le notizie delle 08.13</title>
       <guid isPermaLink="false">rassegna-stampa-04</guid>
-      <pubDate>Fri, 09 Oct 2026 21:00:06 +0000</pubDate>
-      <description>Sky TG24: Sky TG24: le notizie delle 22.13</description>
-      <enclosure url="https://traffic.megaphone.fm/SIS3887597696.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 10 Oct 2026 07:02:08 +0000</pubDate>
+      <description>Sky TG24: Sky TG24: le notizie delle 08.13</description>
+      <enclosure url="https://traffic.megaphone.fm/SIS2394806144.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>05 - Mister Gadget Daily — 10 Ott: Trapelano i render dei nuovi prodotti Apple</title>
@@ -62,11 +62,11 @@
       <enclosure url="https://api.spreaker.com/download/episode/75671197/file_radio_355287805_2026_10_09_19_09_mentana.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>09 - TMW News — Ep. 1106 - Il Real ha deciso: l'Italia è la 'cantera' giusta per i suoi talenti. Tocca a Endrick?</title>
+      <title>09 - TMW News — Ep. 1107 - Tecnici già a rischio, volti nuovi e rinascite Nazionali: da dove riparte la A</title>
       <guid isPermaLink="false">rassegna-stampa-09</guid>
-      <pubDate>Fri, 09 Oct 2026 05:00:00 +0000</pubDate>
-      <description>TMW News: Ep. 1106 - Il Real ha deciso: l'Italia è la 'cantera' giusta per i suoi talenti. Tocca a Endrick?</description>
-      <enclosure url="https://aod.tmwradio.com/0/150/51/51a635be51d875920bd0f3b6f9fc5f21-17302-1791351503.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 10 Oct 2026 05:00:00 +0000</pubDate>
+      <description>TMW News: Ep. 1107 - Tecnici già a rischio, volti nuovi e rinascite Nazionali: da dove riparte la A</description>
+      <enclosure url="https://aod.tmwradio.com/0/150/94/94e466c961ab7df9ecb0a579a9106ee9-85955-1791445293.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
     </item>
   </channel>
 </rss>
