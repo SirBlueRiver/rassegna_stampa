@@ -6,18 +6,18 @@
     <language>it-IT</language>
     <link>https://sirblueriver.github.io/rassegna_stampa/</link>
     <item>
-      <title>01 - Capital News — Edizione delle ore 20:00</title>
+      <title>01 - Capital News — Edizione delle ore 09:00</title>
       <guid isPermaLink="false">rassegna-stampa-01</guid>
-      <pubDate>Wed, 14 Oct 2026 18:00:00 +0000</pubDate>
-      <description>Capital News: Edizione delle ore 20:00</description>
-      <enclosure url="https://media.capital.it/2026/10/14/episodes/grnews/grnews_20261014_200000.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Thu, 15 Oct 2026 07:00:00 +0000</pubDate>
+      <description>Capital News: Edizione delle ore 09:00</description>
+      <enclosure url="https://media.capital.it/2026/10/15/episodes/grnews/grnews_20261015_090000.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 03</title>
+      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 08</title>
       <guid isPermaLink="false">rassegna-stampa-02</guid>
-      <pubDate>Wed, 14 Oct 2026 23:02:30 +0000</pubDate>
-      <description>Giornale Orario RTL 102.5: Edizione delle 03</description>
-      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/TPeIGtxNQKz3/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Thu, 15 Oct 2026 04:05:14 +0000</pubDate>
+      <description>Giornale Orario RTL 102.5: Edizione delle 08</description>
+      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/HhiSjXt3zJme/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>03 - Il Calcio del Giorno — FLASH ore 18.00: Lautaro trascina l’Inter nonostante il ko, Bernardo Silva sparisce dalle rotazioni del Real Madrid, Cagliari-Juve record pe</title>
@@ -27,11 +27,11 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75787794/utf_8_q_f0_9f_93_bb_f0_9f_94_94il_notiziario_sportivo_de_utf_8_q_l_14_ottobre_2026_h_18_mp3.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>04 - Sky TG24 — Sky TG24: le notizie delle 23.13</title>
+      <title>04 - Sky TG24 — Sky TG24: le notizie delle 07.13</title>
       <guid isPermaLink="false">rassegna-stampa-04</guid>
-      <pubDate>Wed, 14 Oct 2026 22:05:25 +0000</pubDate>
-      <description>Sky TG24: Sky TG24: le notizie delle 23.13</description>
-      <enclosure url="https://traffic.megaphone.fm/SIS9143270566.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Thu, 15 Oct 2026 05:30:04 +0000</pubDate>
+      <description>Sky TG24: Sky TG24: le notizie delle 07.13</description>
+      <enclosure url="https://traffic.megaphone.fm/SIS7211034349.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>05 - Mister Gadget Daily — 15 Ott: L'incredibile spy story di OpenAI</title>
@@ -62,11 +62,11 @@
       <enclosure url="https://api.spreaker.com/download/episode/75790461/file_radio_935605860_2026_10_14_19_06_mentana.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>09 - TMW News — Ep. 1111 - Il prossimo allenatore (e giocatori) del Como li deciderà "il consiglio". Come funziona?</title>
+      <title>09 - TMW News — Ep. 1112 - Il Napoli è già a fine ciclo e Allegri non è più da Champions?</title>
       <guid isPermaLink="false">rassegna-stampa-09</guid>
-      <pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-      <description>TMW News: Ep. 1111 - Il prossimo allenatore (e giocatori) del Como li deciderà "il consiglio". Come funziona?</description>
-      <enclosure url="https://aod.tmwradio.com/0/150/53/53a2fdb2e6f46aac98faa918595a8dd0-33772-1791897874.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
+      <pubDate>Thu, 15 Oct 2026 06:11:57 +0000</pubDate>
+      <description>TMW News: Ep. 1112 - Il Napoli è già a fine ciclo e Allegri non è più da Champions?</description>
+      <enclosure url="https://aod.tmwradio.com/0/150/51/510715ae3f60646e248b85da040b5d34-61472-1792044740.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
     </item>
   </channel>
 </rss>
