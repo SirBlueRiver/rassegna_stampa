@@ -6,25 +6,25 @@
     <language>it-IT</language>
     <link>https://sirblueriver.github.io/rassegna_stampa/</link>
     <item>
-      <title>01 - Capital News — Edizione delle ore 07:00</title>
+      <title>01 - Capital News — Edizione delle ore 12:00</title>
       <guid isPermaLink="false">rassegna-stampa-01</guid>
-      <pubDate>Sat, 17 Oct 2026 05:00:00 +0000</pubDate>
-      <description>Capital News: Edizione delle ore 07:00</description>
-      <enclosure url="https://media.capital.it/2026/10/17/episodes/grnews/grnews_20261017_070000.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 17 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Capital News: Edizione delle ore 12:00</description>
+      <enclosure url="https://media.capital.it/2026/10/17/episodes/grnews/grnews_20261017_120000.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 07</title>
+      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 12</title>
       <guid isPermaLink="false">rassegna-stampa-02</guid>
-      <pubDate>Sat, 17 Oct 2026 03:05:32 +0000</pubDate>
-      <description>Giornale Orario RTL 102.5: Edizione delle 07</description>
-      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/xrxa70BpGWeh/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 17 Oct 2026 08:04:34 +0000</pubDate>
+      <description>Giornale Orario RTL 102.5: Edizione delle 12</description>
+      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/HXaj1tyxFSzP/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>03 - Il Calcio del Giorno — FLASH ore 18.00: Juve torna a vincere in rimonta dopo 320 giorni, Bellingham verso il rinnovo col Real Madrid, Inter chiamata alla reazione</title>
+      <title>03 - Il Calcio del Giorno — FLASH: Milan accelera per Tresoldi, Roma sorride per Dybala ma perde Koné, Inter in emergenza a Bologna</title>
       <guid isPermaLink="false">rassegna-stampa-03</guid>
-      <pubDate>Fri, 16 Oct 2026 15:25:02 +0000</pubDate>
-      <description>Il Calcio del Giorno: FLASH ore 18.00: Juve torna a vincere in rimonta dopo 320 giorni, Bellingham verso il rinnovo col Real Madrid, Inter chiamata alla reazione</description>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75825056/podcast.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 17 Oct 2026 09:11:43 +0000</pubDate>
+      <description>Il Calcio del Giorno: FLASH: Milan accelera per Tresoldi, Roma sorride per Dybala ma perde Koné, Inter in emergenza a Bologna</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75835481/podcast.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>04 - Sky TG24 — Sky TG24: le notizie delle 19.14</title>
@@ -62,11 +62,11 @@
       <enclosure url="https://api.spreaker.com/download/episode/75828472/file_radio_796936833_2026_10_16_19_04_mentana.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>09 - TMW News — Ep. 1113 - Duro, forte, cattivo: De Rossi non sapeva di avere il centravanti ideale</title>
+      <title>09 - TMW News — Ep. 1114 - Il miglior acquisto è stato ripescato dal dimenticatoio. Gattuso e un nuovo Belahyane</title>
       <guid isPermaLink="false">rassegna-stampa-09</guid>
-      <pubDate>Fri, 16 Oct 2026 07:57:24 +0000</pubDate>
-      <description>TMW News: Ep. 1113 - Duro, forte, cattivo: De Rossi non sapeva di avere il centravanti ideale</description>
-      <enclosure url="https://aod.tmwradio.com/0/150/4c/4c2582edabbb28012af89dc30f8f16c8-21057-1792051070.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 17 Oct 2026 07:57:52 +0000</pubDate>
+      <description>TMW News: Ep. 1114 - Il miglior acquisto è stato ripescato dal dimenticatoio. Gattuso e un nuovo Belahyane</description>
+      <enclosure url="https://aod.tmwradio.com/0/150/1e/1e8bde50e5af23b733c9f0e586b40d82-01635-1792051096.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
     </item>
   </channel>
 </rss>
