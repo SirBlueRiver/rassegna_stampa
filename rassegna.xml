@@ -6,32 +6,32 @@
     <language>it-IT</language>
     <link>https://sirblueriver.github.io/rassegna_stampa/</link>
     <item>
-      <title>01 - Capital News — Edizione delle ore 10:00</title>
+      <title>01 - Capital News — Edizione delle ore 16:00</title>
       <guid isPermaLink="false">rassegna-stampa-01</guid>
-      <pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
-      <description>Capital News: Edizione delle ore 10:00</description>
-      <enclosure url="https://media.capital.it/2026/10/20/episodes/grnews/grnews_20261020_100000.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Tue, 20 Oct 2026 14:00:00 +0000</pubDate>
+      <description>Capital News: Edizione delle ore 16:00</description>
+      <enclosure url="https://media.capital.it/2026/10/20/episodes/grnews/grnews_20261020_160000.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 11</title>
+      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 16</title>
       <guid isPermaLink="false">rassegna-stampa-02</guid>
-      <pubDate>Tue, 20 Oct 2026 07:05:11 +0000</pubDate>
-      <description>Giornale Orario RTL 102.5: Edizione delle 11</description>
-      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/DzFRZkIamG9n/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Tue, 20 Oct 2026 12:04:32 +0000</pubDate>
+      <description>Giornale Orario RTL 102.5: Edizione delle 16</description>
+      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/CfJuWouYcZPZ/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>03 - Il Calcio del Giorno — FLASH ore 18.00: Conceicao fuori tre settimane, Comolli guida il Pisa, Lazio in ansia per Gudmundsson</title>
+      <title>03 - Il Calcio del Giorno — FLASH ore 12.00: Samp, Corradi esonerato e Giampaolo si complica, Bremer chiede scusa e sarà multato, Ausilio tratta col Tottenham</title>
       <guid isPermaLink="false">rassegna-stampa-03</guid>
-      <pubDate>Mon, 19 Oct 2026 17:05:18 +0000</pubDate>
-      <description>Il Calcio del Giorno: FLASH ore 18.00: Conceicao fuori tre settimane, Comolli guida il Pisa, Lazio in ansia per Gudmundsson</description>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75862030/podcast_1.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Tue, 20 Oct 2026 10:12:14 +0000</pubDate>
+      <description>Il Calcio del Giorno: FLASH ore 12.00: Samp, Corradi esonerato e Giampaolo si complica, Bremer chiede scusa e sarà multato, Ausilio tratta col Tottenham</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75873547/podcast.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>04 - Sky TG24 — Sky TG24: le notizie delle 08.42</title>
+      <title>04 - Sky TG24 — Sky TG24: le notizie delle 14.14</title>
       <guid isPermaLink="false">rassegna-stampa-04</guid>
-      <pubDate>Tue, 20 Oct 2026 07:02:09 +0000</pubDate>
-      <description>Sky TG24: Sky TG24: le notizie delle 08.42</description>
-      <enclosure url="https://traffic.megaphone.fm/SIS9702634496.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Tue, 20 Oct 2026 12:40:08 +0000</pubDate>
+      <description>Sky TG24: Sky TG24: le notizie delle 14.14</description>
+      <enclosure url="https://traffic.megaphone.fm/SIS1475603104.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>05 - Mister Gadget Daily — 20 Ott: La risposta europea a Starlink</title>
@@ -41,11 +41,11 @@
       <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/NEXTDP4654681695.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>06 - Rai GR1 — GR 1 ore 09:00 del 20/10/2026</title>
+      <title>06 - Rai GR1 — GR 1 ore 15:00 del 20/10/2026</title>
       <guid isPermaLink="false">rassegna-stampa-06</guid>
-      <pubDate>Tue, 20 Oct 2026 07:10:00 +0000</pubDate>
-      <description>Rai GR1: GR 1 ore 09:00 del 20/10/2026</description>
-      <enclosure url="https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr1_audiocut/30628955_1800.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Tue, 20 Oct 2026 13:09:00 +0000</pubDate>
+      <description>Rai GR1: GR 1 ore 15:00 del 20/10/2026</description>
+      <enclosure url="https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr1_audiocut/30632743_1800.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>07 - Gong! — GTA 6: THE GAME AWARDS, I JUSTICE &amp; IL FUTURO DI ROCKSTAR | 489</title>
@@ -55,18 +55,18 @@
       <enclosure url="https://anchor.fm/s/95e7c8c8/podcast/play/127573545/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-16%2F434304409-44100-2-a993e9c11f00c.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>08 - 100 secondi con Enrico Mentana — Violenze nei centri cittadini, il Governo vara le prime misure</title>
+      <title>08 - 100 secondi con Enrico Mentana — Ucraina, Zelensky in Norvegia per incontrare Witkoff: ai minimi i rapporti tra Kiev e Washington</title>
       <guid isPermaLink="false">rassegna-stampa-08</guid>
-      <pubDate>Tue, 20 Oct 2026 09:17:49 +0000</pubDate>
-      <description>100 secondi con Enrico Mentana: Violenze nei centri cittadini, il Governo vara le prime misure</description>
-      <enclosure url="https://api.spreaker.com/download/episode/75872752/file_radio_576671766_2026_10_20_11_03_mentana.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Tue, 20 Oct 2026 10:18:16 +0000</pubDate>
+      <description>100 secondi con Enrico Mentana: Ucraina, Zelensky in Norvegia per incontrare Witkoff: ai minimi i rapporti tra Kiev e Washington</description>
+      <enclosure url="https://api.spreaker.com/download/episode/75873632/file_radio_912006070_2026_10_20_12_01_mentana.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>09 - TMW News — Ep. 1116 - Le plusvalenze ma anche critiche e flop: chi è Krosche, possibile nuovo ds del Milan</title>
+      <title>09 - TMW News — Ep. 1117 - La posizione del Napoli sul futuro di Allegri è (al momento) chiarissima</title>
       <guid isPermaLink="false">rassegna-stampa-09</guid>
-      <pubDate>Mon, 19 Oct 2026 08:56:03 +0000</pubDate>
-      <description>TMW News: Ep. 1116 - Le plusvalenze ma anche critiche e flop: chi è Krosche, possibile nuovo ds del Milan</description>
-      <enclosure url="https://aod.tmwradio.com/0/150/a9/a9612fd4028db595c749b4df8924c3af-14612-1792400195.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
+      <pubDate>Tue, 20 Oct 2026 10:07:09 +0000</pubDate>
+      <description>TMW News: Ep. 1117 - La posizione del Napoli sul futuro di Allegri è (al momento) chiarissima</description>
+      <enclosure url="https://aod.tmwradio.com/0/150/1f/1ffadacd4884c4878f4b0bc36760742a-57593-1792404458.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
     </item>
   </channel>
 </rss>
