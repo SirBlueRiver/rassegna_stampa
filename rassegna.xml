@@ -6,32 +6,32 @@
     <language>it-IT</language>
     <link>https://sirblueriver.github.io/rassegna_stampa/</link>
     <item>
-      <title>01 - Capital News — Edizione delle ore 09:00</title>
+      <title>01 - Capital News — Edizione delle ore 20:00</title>
       <guid isPermaLink="false">rassegna-stampa-01</guid>
-      <pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
-      <description>Capital News: Edizione delle ore 09:00</description>
-      <enclosure url="https://media.capital.it/2026/11/04/episodes/grnews/grnews_20261104_090000.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Wed, 04 Nov 2026 19:00:00 +0000</pubDate>
+      <description>Capital News: Edizione delle ore 20:00</description>
+      <enclosure url="https://media.capital.it/2026/11/04/episodes/grnews/grnews_20261104_200000.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 09</title>
+      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 23</title>
       <guid isPermaLink="false">rassegna-stampa-02</guid>
-      <pubDate>Wed, 04 Nov 2026 07:05:04 +0000</pubDate>
-      <description>Giornale Orario RTL 102.5: Edizione delle 09</description>
-      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/wN2cnllSjY7b/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Wed, 04 Nov 2026 21:07:48 +0000</pubDate>
+      <description>Giornale Orario RTL 102.5: Edizione delle 23</description>
+      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/k0FdjRt2cAeQ/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>03 - Il Calcio del Giorno — FLASH ore 18.00: Juve, Ekhator sostituisce Locatelli in Europa, Dimarco verso il 2028 con aumento, Daffara si prende il Parma</title>
+      <title>03 - Il Calcio del Giorno — FLASH ore 18.00: Nadal verso il CdA del Real Madrid, Chukwueze operato e fuori tre mesi, Vicario certezza della Juventus</title>
       <guid isPermaLink="false">rassegna-stampa-03</guid>
-      <pubDate>Tue, 03 Nov 2026 16:27:31 +0000</pubDate>
-      <description>Il Calcio del Giorno: FLASH ore 18.00: Juve, Ekhator sostituisce Locatelli in Europa, Dimarco verso il 2028 con aumento, Daffara si prende il Parma</description>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76157697/podcast_2.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Wed, 04 Nov 2026 16:15:02 +0000</pubDate>
+      <description>Il Calcio del Giorno: FLASH ore 18.00: Nadal verso il CdA del Real Madrid, Chukwueze operato e fuori tre mesi, Vicario certezza della Juventus</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76175233/podcast.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>04 - Sky TG24 — Sky TG24: le notizie delle 08.20</title>
+      <title>04 - Sky TG24 — Sky TG24: le notizie delle 20.13</title>
       <guid isPermaLink="false">rassegna-stampa-04</guid>
-      <pubDate>Wed, 04 Nov 2026 07:30:03 +0000</pubDate>
-      <description>Sky TG24: Sky TG24: le notizie delle 08.20</description>
-      <enclosure url="https://traffic.megaphone.fm/SIS5742298896.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Wed, 04 Nov 2026 19:39:29 +0000</pubDate>
+      <description>Sky TG24: Sky TG24: le notizie delle 20.13</description>
+      <enclosure url="https://traffic.megaphone.fm/SIS5177403455.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>05 - Mister Gadget Daily — 04 Nov: Cosa è successo con i frigoriferi hackerati?</title>
@@ -41,11 +41,11 @@
       <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/NEXTDP8970768399.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>06 - Rai GR1 — GR 1 ore 19:00 del 03/11/2026</title>
+      <title>06 - Rai GR1 — GR 1 ore 19:00 del 04/11/2026</title>
       <guid isPermaLink="false">rassegna-stampa-06</guid>
-      <pubDate>Tue, 03 Nov 2026 18:56:00 +0000</pubDate>
-      <description>Rai GR1: GR 1 ore 19:00 del 03/11/2026</description>
-      <enclosure url="https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr1_audiocut/30751404_1800.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Wed, 04 Nov 2026 18:33:00 +0000</pubDate>
+      <description>Rai GR1: GR 1 ore 19:00 del 04/11/2026</description>
+      <enclosure url="https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr1_audiocut/30761031_1800.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>07 - Gong! — GTA 6: THE GAME AWARDS, I JUSTICE &amp; IL FUTURO DI ROCKSTAR | 489</title>
@@ -55,18 +55,18 @@
       <enclosure url="https://anchor.fm/s/95e7c8c8/podcast/play/127573545/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-16%2F434304409-44100-2-a993e9c11f00c.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>08 - 100 secondi con Enrico Mentana — Garlasco, tra nuove indagini e rischio di processi mediatici: servono prove, non colpevoli</title>
+      <title>08 - 100 secondi con Enrico Mentana — Dopo la sconfitta repubblicana alle elezioni di medio termine, il Brent crolla del 10% e Trump valuta di sostituire Hegseth</title>
       <guid isPermaLink="false">rassegna-stampa-08</guid>
-      <pubDate>Tue, 03 Nov 2026 18:18:31 +0000</pubDate>
-      <description>100 secondi con Enrico Mentana: Garlasco, tra nuove indagini e rischio di processi mediatici: servono prove, non colpevoli</description>
-      <enclosure url="https://api.spreaker.com/download/episode/76159105/file_radio_36359350_2026_11_03_19_08_mentana.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Wed, 04 Nov 2026 18:17:51 +0000</pubDate>
+      <description>100 secondi con Enrico Mentana: Dopo la sconfitta repubblicana alle elezioni di medio termine, il Brent crolla del 10% e Trump valuta di sostituire Hegseth</description>
+      <enclosure url="https://api.spreaker.com/download/episode/76178573/file_radio_443571465_2026_11_04_19_07_mentana.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>09 - TMW News — Ep. 1132 - L'emigrante che ha fatto gavetta o il colpo da record: chi gioca al posto di Raimondo?</title>
+      <title>09 - TMW News — Ep. 1133 - Prima rinato, poi nel baratro: Porto e Lazio saranno decisive per Allegri?</title>
       <guid isPermaLink="false">rassegna-stampa-09</guid>
-      <pubDate>Tue, 03 Nov 2026 09:24:58 +0000</pubDate>
-      <description>TMW News: Ep. 1132 - L'emigrante che ha fatto gavetta o il colpo da record: chi gioca al posto di Raimondo?</description>
-      <enclosure url="https://aod.tmwradio.com/0/150/e0/e0885c0166f9c8450ca8218da008e202-87190-1793697917.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
+      <pubDate>Wed, 04 Nov 2026 09:00:00 +0000</pubDate>
+      <description>TMW News: Ep. 1133 - Prima rinato, poi nel baratro: Porto e Lazio saranno decisive per Allegri?</description>
+      <enclosure url="https://aod.tmwradio.com/0/150/94/9429f1e966ec9d97736b577f322726e8-55862-1793724824.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
     </item>
   </channel>
 </rss>
