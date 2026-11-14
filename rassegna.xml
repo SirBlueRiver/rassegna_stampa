@@ -6,32 +6,32 @@
     <language>it-IT</language>
     <link>https://sirblueriver.github.io/rassegna_stampa/</link>
     <item>
-      <title>01 - Capital News — Edizione delle ore 09:00</title>
+      <title>01 - Capital News — Edizione delle ore 16:00</title>
       <guid isPermaLink="false">rassegna-stampa-01</guid>
-      <pubDate>Sat, 14 Nov 2026 08:00:00 +0000</pubDate>
-      <description>Capital News: Edizione delle ore 09:00</description>
-      <enclosure url="https://media.capital.it/2026/11/14/episodes/grnews/grnews_20261114_090000.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 14 Nov 2026 15:00:00 +0000</pubDate>
+      <description>Capital News: Edizione delle ore 16:00</description>
+      <enclosure url="https://media.capital.it/2026/11/14/episodes/grnews/grnews_20261114_160000.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 09</title>
+      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 16</title>
       <guid isPermaLink="false">rassegna-stampa-02</guid>
-      <pubDate>Sat, 14 Nov 2026 07:04:22 +0000</pubDate>
-      <description>Giornale Orario RTL 102.5: Edizione delle 09</description>
-      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/CWGtNaxQYD8R/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 14 Nov 2026 14:04:34 +0000</pubDate>
+      <description>Giornale Orario RTL 102.5: Edizione delle 16</description>
+      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/lJRiSQFyf7lg/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>03 - Il Calcio del Giorno — FLASH ore 18.00: Juventus, occasione Bruno Fernandes a zero, Milan contatti per Sylla, Tresoldi paura in Nazionale</title>
+      <title>03 - Il Calcio del Giorno — FLASH: Juventus, Udogie obiettivo per gennaio, Cardinale blinda il Milan, Owono squalificato per 12 giornate</title>
       <guid isPermaLink="false">rassegna-stampa-03</guid>
-      <pubDate>Fri, 13 Nov 2026 15:24:14 +0000</pubDate>
-      <description>Il Calcio del Giorno: FLASH ore 18.00: Juventus, occasione Bruno Fernandes a zero, Milan contatti per Sylla, Tresoldi paura in Nazionale</description>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76338373/podcast.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 14 Nov 2026 09:21:10 +0000</pubDate>
+      <description>Il Calcio del Giorno: FLASH: Juventus, Udogie obiettivo per gennaio, Cardinale blinda il Milan, Owono squalificato per 12 giornate</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76360906/podcast.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>04 - Sky TG24 — Sky TG24: le notizie delle 08.13</title>
+      <title>04 - Sky TG24 — Sky TG24: le notizie delle 14.13</title>
       <guid isPermaLink="false">rassegna-stampa-04</guid>
-      <pubDate>Sat, 14 Nov 2026 08:00:07 +0000</pubDate>
-      <description>Sky TG24: Sky TG24: le notizie delle 08.13</description>
-      <enclosure url="https://traffic.megaphone.fm/SIS3613760617.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 14 Nov 2026 13:43:32 +0000</pubDate>
+      <description>Sky TG24: Sky TG24: le notizie delle 14.13</description>
+      <enclosure url="https://traffic.megaphone.fm/SIS8441106168.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>05 - Mister Gadget Daily — Nov 14: Microsoft 365 da ieri è diventata 364</title>
@@ -41,11 +41,11 @@
       <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/NEXTDP7765820280.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>06 - Rai GR1 — GR 1 ore 19:00 del 13/11/2026</title>
+      <title>06 - Rai GR1 — GR 1 ore 15:00 del 14/11/2026</title>
       <guid isPermaLink="false">rassegna-stampa-06</guid>
-      <pubDate>Fri, 13 Nov 2026 18:35:00 +0000</pubDate>
-      <description>Rai GR1: GR 1 ore 19:00 del 13/11/2026</description>
-      <enclosure url="https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr1_audiocut/30836578_1800.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 14 Nov 2026 14:10:00 +0000</pubDate>
+      <description>Rai GR1: GR 1 ore 15:00 del 14/11/2026</description>
+      <enclosure url="https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr1_audiocut/30841824_1800.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>07 - Gong! — Microsoft anticipa i tempi: Sentinel, Wolfenstein e id Software | Episodio 492</title>
