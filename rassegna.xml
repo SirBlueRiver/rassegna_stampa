@@ -6,18 +6,18 @@
     <language>it-IT</language>
     <link>https://sirblueriver.github.io/rassegna_stampa/</link>
     <item>
-      <title>01 - Capital News — Edizione delle ore 19:00</title>
+      <title>01 - Capital News — Edizione delle ore 20:00</title>
       <guid isPermaLink="false">rassegna-stampa-01</guid>
-      <pubDate>Mon, 23 Nov 2026 18:00:00 +0000</pubDate>
-      <description>Capital News: Edizione delle ore 19:00</description>
-      <enclosure url="https://media.capital.it/2026/11/23/episodes/grnews/grnews_20261123_190000.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Mon, 23 Nov 2026 19:00:00 +0000</pubDate>
+      <description>Capital News: Edizione delle ore 20:00</description>
+      <enclosure url="https://media.capital.it/2026/11/23/episodes/grnews/grnews_20261123_200000.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 19</title>
+      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 04</title>
       <guid isPermaLink="false">rassegna-stampa-02</guid>
-      <pubDate>Mon, 23 Nov 2026 17:06:59 +0000</pubDate>
-      <description>Giornale Orario RTL 102.5: Edizione delle 19</description>
-      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/talDqPf5mDmo/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Tue, 24 Nov 2026 02:05:00 +0000</pubDate>
+      <description>Giornale Orario RTL 102.5: Edizione delle 04</description>
+      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/6CH1QAjA993P/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>03 - Il Calcio del Giorno — FLASH: Juventus, sospiro di sollievo per Alajbegovic, Milan accordo per Krösche, Napoli shock per Vergara</title>
@@ -27,25 +27,25 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76539156/podcast.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>04 - Sky TG24 — Sky TG24: le notizie delle 12.15</title>
+      <title>04 - Sky TG24 — Sky TG24: le notizie delle 23.13</title>
       <guid isPermaLink="false">rassegna-stampa-04</guid>
-      <pubDate>Mon, 23 Nov 2026 12:40:08 +0000</pubDate>
-      <description>Sky TG24: Sky TG24: le notizie delle 12.15</description>
-      <enclosure url="https://traffic.megaphone.fm/SIS2016852572.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Tue, 24 Nov 2026 00:02:10 +0000</pubDate>
+      <description>Sky TG24: Sky TG24: le notizie delle 23.13</description>
+      <enclosure url="https://traffic.megaphone.fm/SIS7970398193.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>05 - Mister Gadget Daily — 23 Nov: Il rischio sicurezza con l'app IO</title>
+      <title>05 - Mister Gadget Daily — 24 Nov: Il clamoroso ritorno di Jensen Huang</title>
       <guid isPermaLink="false">rassegna-stampa-05</guid>
-      <pubDate>Mon, 23 Nov 2026 02:00:00 +0000</pubDate>
-      <description>Mister Gadget Daily: 23 Nov: Il rischio sicurezza con l'app IO</description>
-      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/NEXTDP4115724937.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Tue, 24 Nov 2026 02:00:00 +0000</pubDate>
+      <description>Mister Gadget Daily: 24 Nov: Il clamoroso ritorno di Jensen Huang</description>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/NEXTDP1946922047.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>06 - Rai GR1 — GR 1 ore 15:00 del 23/11/2026</title>
+      <title>06 - Rai GR1 — GR 1 ore 18:00 del 23/11/2026</title>
       <guid isPermaLink="false">rassegna-stampa-06</guid>
-      <pubDate>Mon, 23 Nov 2026 14:13:00 +0000</pubDate>
-      <description>Rai GR1: GR 1 ore 15:00 del 23/11/2026</description>
-      <enclosure url="https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr1_audiocut/30910544_1800.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Mon, 23 Nov 2026 17:16:00 +0000</pubDate>
+      <description>Rai GR1: GR 1 ore 18:00 del 23/11/2026</description>
+      <enclosure url="https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr1_audiocut/30912130_1800.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>07 - Gong! — Microsoft anticipa i tempi: Sentinel, Wolfenstein e id Software | Episodio 492</title>
