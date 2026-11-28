@@ -6,32 +6,32 @@
     <language>it-IT</language>
     <link>https://sirblueriver.github.io/rassegna_stampa/</link>
     <item>
-      <title>01 - Capital News — Edizione delle ore 20:00</title>
+      <title>01 - Capital News — Edizione delle ore 12:00</title>
       <guid isPermaLink="false">rassegna-stampa-01</guid>
-      <pubDate>Fri, 27 Nov 2026 19:00:00 +0000</pubDate>
-      <description>Capital News: Edizione delle ore 20:00</description>
-      <enclosure url="https://media.capital.it/2026/11/27/episodes/grnews/grnews_20261127_200000.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 28 Nov 2026 11:00:00 +0000</pubDate>
+      <description>Capital News: Edizione delle ore 12:00</description>
+      <enclosure url="https://media.capital.it/2026/11/28/episodes/grnews/grnews_20261128_120000.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 04</title>
+      <title>02 - Giornale Orario RTL 102.5 — Edizione delle 13</title>
       <guid isPermaLink="false">rassegna-stampa-02</guid>
-      <pubDate>Sat, 28 Nov 2026 02:02:39 +0000</pubDate>
-      <description>Giornale Orario RTL 102.5: Edizione delle 04</description>
-      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/g3w5hlyyXJmD/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 28 Nov 2026 11:06:00 +0000</pubDate>
+      <description>Giornale Orario RTL 102.5: Edizione delle 13</description>
+      <enclosure url="https://podcast-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/vod/hG2xPBQBY2O2/mp3_128_48000_2.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>03 - Il Calcio del Giorno — FLASH ore 18.00: Juventus, Kalulu recuperato e Nico migliora, Bruno Fernandes rinnova fino al 2028, Inter perde Bastoni per tre settimane</title>
+      <title>03 - Il Calcio del Giorno — FLASH: Juventus, Kalulu recuperato ma Ekhator in dubbio, Milan-Jashari il PSV ci prova, Mancini si pente dell'addio all'Italia</title>
       <guid isPermaLink="false">rassegna-stampa-03</guid>
-      <pubDate>Fri, 27 Nov 2026 16:47:47 +0000</pubDate>
-      <description>Il Calcio del Giorno: FLASH ore 18.00: Juventus, Kalulu recuperato e Nico migliora, Bruno Fernandes rinnova fino al 2028, Inter perde Bastoni per tre settimane</description>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76646548/podcast_1.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 28 Nov 2026 11:05:57 +0000</pubDate>
+      <description>Il Calcio del Giorno: FLASH: Juventus, Kalulu recuperato ma Ekhator in dubbio, Milan-Jashari il PSV ci prova, Mancini si pente dell'addio all'Italia</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76660834/podcast.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>04 - Sky TG24 — Sky TG24: le notizie delle 23.13</title>
+      <title>04 - Sky TG24 — Sky TG24: le notizie delle 09.13</title>
       <guid isPermaLink="false">rassegna-stampa-04</guid>
-      <pubDate>Fri, 27 Nov 2026 23:10:06 +0000</pubDate>
-      <description>Sky TG24: Sky TG24: le notizie delle 23.13</description>
-      <enclosure url="https://traffic.megaphone.fm/SIS7388782765.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 28 Nov 2026 08:30:07 +0000</pubDate>
+      <description>Sky TG24: Sky TG24: le notizie delle 09.13</description>
+      <enclosure url="https://traffic.megaphone.fm/SIS6958592670.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>05 - Mister Gadget Daily — 28 novembre: OpenAI contro Apple: nuova denuncia per i segreti industriali</title>
@@ -41,11 +41,11 @@
       <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/NEXTDP3744718048.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>06 - Rai GR1 — GR 1 ore 19:00 del 27/11/2026</title>
+      <title>06 - Rai GR1 — GR 1 ore 08:00 del 28/11/2026</title>
       <guid isPermaLink="false">rassegna-stampa-06</guid>
-      <pubDate>Fri, 27 Nov 2026 18:37:00 +0000</pubDate>
-      <description>Rai GR1: GR 1 ore 19:00 del 27/11/2026</description>
-      <enclosure url="https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr1_audiocut/30950375_1800.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 28 Nov 2026 07:28:00 +0000</pubDate>
+      <description>Rai GR1: GR 1 ore 08:00 del 28/11/2026</description>
+      <enclosure url="https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/gr1_audiocut/30952312_1800.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
       <title>07 - Gong! — Microsoft anticipa i tempi: Sentinel, Wolfenstein e id Software | Episodio 492</title>
@@ -62,11 +62,11 @@
       <enclosure url="https://api.spreaker.com/download/episode/76647122/file_radio_362041537_2026_11_27_17_03_mentana.mp3" type="audio/mpeg" length="0" />
     </item>
     <item>
-      <title>09 - TMW News — Ep. 1155 - Ora c'è il vero esame per i Friedkin. La Roma è pronta per salire di livello</title>
+      <title>09 - TMW News — Ep. 1156 - Rinnovi, addii pesantissimi e tanti obiettivi: un gennaio tutto nuovo per il Napoli</title>
       <guid isPermaLink="false">rassegna-stampa-09</guid>
-      <pubDate>Fri, 27 Nov 2026 06:40:25 +0000</pubDate>
-      <description>TMW News: Ep. 1155 - Ora c'è il vero esame per i Friedkin. La Roma è pronta per salire di livello</description>
-      <enclosure url="https://aod.tmwradio.com/0/150/cd/cde0e4280d0b5d308ae325d349f47f04-08195-1795682444.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
+      <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+      <description>TMW News: Ep. 1156 - Rinnovi, addii pesantissimi e tanti obiettivi: un gennaio tutto nuovo per il Napoli</description>
+      <enclosure url="https://aod.tmwradio.com/0/150/36/36737af60f6e8fc712c1e4fe00ecb559-25763-1795682469.mp3?awCollectionId=tmw-podcast" type="audio/mpeg" length="0" />
     </item>
   </channel>
 </rss>
